@@ -1,0 +1,20 @@
+.row{
+    display: flex;
+}
+.mat-form-field{
+    flex: auto;
+    margin-right: 10px;
+}
+.col1{
+    flex: 50%;
+}
+.col2{
+    flex: 50%;
+}
+mat-radio-button, mat-label{
+    margin-right: 10px;
+}
+mat-radio-group{
+    padding: 15px 0px 0px 10px;
+    margin: 3.5px 0px;
+}
